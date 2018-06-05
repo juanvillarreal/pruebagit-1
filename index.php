@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>
-		PAGINA DE INICIO
+		Segunda vuelta ganamos
 	</title>
 </head>
 <body>
 <h1>petro villarreal</h1>
+<h2>POR UNA COLOMBIA HUMANA</h2>
 </body>
 </html>
